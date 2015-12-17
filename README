@@ -1,0 +1,21 @@
+
+Prerequisites:
+
+ROOTv6
+
+
+Usage:
+
+1: go to the out most folder directory
+2: make
+3: There will be the libvxi11.so , libtekvxi11.so and there pcm file in sub directory lib.
+4: In ROOTv6, load libvxi11.so firstly and then libtekvxi11.so . They will provide you the necessary functions and class to comminicate with scope.
+
+Note:
+libvxi11.so: the basic vxi11 protocol. Please refer to http://optics.eee.nottingham.ac.uk/vxi11/
+libtekvxi11.so: only demo class for Tek mso5000 scope 
+
+
+
+2015.11.3
+
